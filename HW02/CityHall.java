@@ -5,7 +5,7 @@
  */
 
 
-
+//PT -- javadocs. -2
 public class CityHall extends Building {//a CityHall is a kind of Building
 public CityHall() {//default constructor, sets generic names and no Persons inside
 	this.setName("City Hall");
