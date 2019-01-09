@@ -25,6 +25,7 @@ public void setName(String n){//sets name
 	name = n;
 	}
 public void setAge(int a) {//sets age
+	//PT -- validate age, phone. -2
 	age = a;
 	}
 public void setPnum(int num) {//sets phone number
