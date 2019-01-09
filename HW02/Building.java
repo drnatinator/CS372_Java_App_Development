@@ -4,10 +4,11 @@
  * @version 1.00, 08 January 2019
  */
 
-
+//PT -- javadoc. -2
 public abstract class Building {//abstract class, since different buildings like School or CityHall are related
 String name;//building name
 String address;//building address
+//PT -- you might decide that ArrayList<Person> is better here.
 Person[] occupants;//an array of Persons who are currently in the Building
 
 
