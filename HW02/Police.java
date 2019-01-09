@@ -5,7 +5,7 @@
  */
 
 
-
+//PT -- javadoc? -2
 public class Police extends Person implements Employee{//Police are Persons and Employees
 public enum role {Patrol, Sergeant, Captain, Chief}//different possible roles for a Police Person
 private role pRole;//variable for a particular Police;used below
