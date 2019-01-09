@@ -5,7 +5,9 @@
  */
 
 //import java.util.DoHomework;//Worth a try :-)
+//PT -- how about anti-gravity? https://xkcd.com/353/
 
+//PT -- javadoc? -2
 public class City {
 	public static void main(String[] args) {
 		
