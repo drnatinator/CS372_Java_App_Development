@@ -1,3 +1,20 @@
+/*
+FEEDBACK:
+
+Read from the file correctly: 20/20%
+Implement class hierarchy correctly: 20/20%
+Populate appropriate data structures with shape data: 15/15%
+Show list of shapes correctly: 15/15%
+Show specific shape properties correctly: 15/15%
+Well-structured, well-commented code: 13/15%
+
+
+Comments:
+  You forgot to upload the image files in the Resources folder.
+  Don't need to define toString in Shape. It's defined in Object.
+  I would like to see the image resource stored as a static member for each shape kind.
+*/
+
 import java.awt.EventQueue;
 import java.awt.Image;
 import java.awt.Toolkit;
